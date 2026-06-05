@@ -1,0 +1,3 @@
+t about command
+git status
+
